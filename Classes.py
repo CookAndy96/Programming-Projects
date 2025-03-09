@@ -19,4 +19,3 @@ print(anim.animal)  # Prints 'dog'
 
 # What more can we do with classes
 
-class 
